@@ -43,3 +43,4 @@ class Solution:
             arr.append(i)
         self.mergesort(0, len(nums) - 1)
         return arr
+
