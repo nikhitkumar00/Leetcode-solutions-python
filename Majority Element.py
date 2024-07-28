@@ -2,7 +2,7 @@ from collections import Counter
 
 
 class Solution:
-    def majorityElement(self, nums: List[int]) -> int:
+    def majorityElement(self, nums):
         c = dict(Counter(nums))
 
         max_freq = float("-inf")
