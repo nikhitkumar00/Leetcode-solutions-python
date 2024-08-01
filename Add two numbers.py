@@ -4,9 +4,7 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def addTwoNumbers(
-        self, l1: Optional[ListNode], l2: Optional[ListNode]
-    ) -> Optional[ListNode]:
+    def addTwoNumbers(self, l1, l2):
         num1 = []
         while l1 != None:
             num1.append(l1.val)
