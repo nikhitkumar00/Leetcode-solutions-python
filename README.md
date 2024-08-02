@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0349-intersection-of-two-arrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0349-intersection-of-two-arrays) |
 | [2634-minimum-common-value](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2634-minimum-common-value) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
