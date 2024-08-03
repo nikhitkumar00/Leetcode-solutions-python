@@ -1,15 +1,12 @@
 class Solution:
     def averageWaitingTime(self, customers: List[List[int]]) -> float:
 
-        current = 0
-        total_waiting = 0
+        current_time = 0
+        total_waiting_time = 0
 
-        for i in customers:
+        for arrival, time in customers:
+            current_time = max(current_time, arrival)
+            current_time += time
+            total_waiting_time += current_time - arrival
 
-            if i[0] > current:
-                current += i[0] - current
-
-            current += i[1]            
-            total_waiting += current - i[0]
-
-        return total_waiting / len(customers)
+        return total_waiting_time / len(customers)
