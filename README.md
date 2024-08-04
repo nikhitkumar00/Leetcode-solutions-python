@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0058-length-of-last-word) |
 | [2502-sort-the-people](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
