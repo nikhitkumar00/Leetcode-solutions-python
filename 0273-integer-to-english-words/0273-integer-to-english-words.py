@@ -1,68 +1,78 @@
 class Solution:
     def numberToWords(self, num: int) -> str:
 
+        # Base case: return "Zero" if the input number is 0
         if num == 0:
             return "Zero"
 
-        ones = {
-            1: "One",
-            2: "Two",
-            3: "Three",
-            4: "Four",
-            5: "Five",
-            6: "Six",
-            7: "Seven",
-            8: "Eight",
-            9: "Nine",
-            10: "Ten",
-            11: "Eleven",
-            12: "Twelve",
-            13: "Thirteen",
-            14: "Fourteen",
-            15: "Fifteen",
-            16: "Sixteen",
-            17: "Seventeen",
-            18: "Eighteen",
-            19: "Nineteen",
-        }
+        # Define lists for ones and tens place words
+        ones = [
+            "",  # 0
+            "One",  # 1
+            "Two",  # 2
+            "Three",  # 3
+            "Four",  # 4
+            "Five",  # 5
+            "Six",  # 6
+            "Seven",  # 7
+            "Eight",  # 8
+            "Nine",  # 9
+            "Ten",  # 10
+            "Eleven",  # 11
+            "Twelve",  # 12
+            "Thirteen",  # 13
+            "Fourteen",  # 14
+            "Fifteen",  # 15
+            "Sixteen",  # 16
+            "Seventeen",  # 17
+            "Eighteen",  # 18
+            "Nineteen",  # 19
+        ]
 
-        tens = {
-            2: "Twenty",
-            3: "Thirty",
-            4: "Forty",
-            5: "Fifty",
-            6: "Sixty",
-            7: "Seventy",
-            8: "Eighty",
-            9: "Ninety",
-        }
+        tens = [
+            "",  # 0
+            "",  # 10
+            "Twenty",  # 20
+            "Thirty",  # 30
+            "Forty",  # 40
+            "Fifty",  # 50
+            "Sixty",  # 60
+            "Seventy",  # 70
+            "Eighty",  # 80
+            "Ninety",  # 90
+        ]
 
-        def to_str(n):
-            res = []
-            if n >= 100:
-                res.append(ones[n // 100] + " Hundred")
-                n %= 100
-
-            if n >= 20:
-                res.append(tens[n // 10])
-                n %= 10
-
-            if n >= 1:
-                res.append(ones[n])
-
-            return " ".join(res)
-
+        # Define a list for position words (thousand, million, billion)
         pos = ["", " Thousand", " Million", " Billion"]
-        index = 0
-        out = []
-        
+        index = 0  # Initialize index for position words
+        out = []  # Initialize output list
+
+        # Loop through the number in groups of 3 digits
         while num:
-            val = to_str(num % 1000)
-            if val:
-                out.append(val + pos[index])
-            index += 1
-            num //= 1000
-        
+            val = num % 1000  # Get the last 3 digits
+
+            if val:  # If the group is not zero
+                res = []  # Initialize a list to store the words for this group
+
+                # Handle hundreds place
+                if val >= 100:
+                    res.append(ones[val // 100] + " Hundred")
+                    val %= 100
+
+                # Handle tens place
+                if val >= 20:
+                    res.append(tens[val // 10])
+                    val %= 10
+
+                # Handle ones place
+                if val >= 1:
+                    res.append(ones[val])
+
+                # Append the words for this group to the output list
+                out.append(" ".join(res) + pos[index])
+            
+            index += 1  # Move to the next position word
+            num //= 1000  # Move to the next group of 3 digits
+
+        # Join the output list into a single string and return
         return " ".join(reversed(out))
-
-
