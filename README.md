@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0058-length-of-last-word) |
+| [0273-integer-to-english-words](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0273-integer-to-english-words) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -98,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Math
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
