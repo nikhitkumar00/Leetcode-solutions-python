@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0041-first-missing-positive) |
 | [0238-product-of-array-except-self](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0287-find-the-duplicate-number) |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
