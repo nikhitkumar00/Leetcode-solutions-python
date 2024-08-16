@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0463-island-perimeter) |
+| [0624-maximum-distance-in-arrays](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0890-lemonade-change) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
