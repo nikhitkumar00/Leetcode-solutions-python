@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1803-average-waiting-time) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2502-sort-the-people) |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0216-combination-sum-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2067-maximum-number-of-points-with-cost](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2067-maximum-number-of-points-with-cost) |
 <!---LeetCode Topics End-->
