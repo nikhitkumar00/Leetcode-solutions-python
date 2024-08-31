@@ -16,9 +16,9 @@ class Solution:
         graph = defaultdict(list)
 
         # Build the graph with edges and corresponding success probabilities
-        for index, (a, b) in enumerate(edges):
-            graph[a].append((b, succProb[index]))
-            graph[b].append((a, succProb[index]))
+        for probability, (a, b) in zip(succProb, edges):
+            graph[a].append((b, probability))
+            graph[b].append((a, probability))
 
         # A set to keep track of visited nodes
         visited = set()
