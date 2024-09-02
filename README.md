@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1803-average-waiting-time) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -102,11 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2634-minimum-common-value](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2634-minimum-common-value) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0238-product-of-array-except-self) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0921-spiral-matrix-iii) |
 | [1803-average-waiting-time](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1803-average-waiting-time) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Greedy
 |  |
