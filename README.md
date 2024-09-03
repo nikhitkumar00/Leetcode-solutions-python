@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0058-length-of-last-word) |
 | [0273-integer-to-english-words](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0273-integer-to-english-words) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0234-palindrome-linked-list) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0005-longest-palindromic-substring) |
 | [0264-ugly-number-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0664-strange-printer) |
