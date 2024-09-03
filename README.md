@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0870-magic-squares-in-grid) |
+| [1013-fibonacci-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0273-integer-to-english-words) |
+| [1013-fibonacci-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0664-strange-printer) |
+| [1013-fibonacci-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1013-fibonacci-number) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Graph
 |  |
@@ -257,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2803-modify-graph-edge-weights) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
