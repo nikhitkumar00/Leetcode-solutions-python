@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0664-strange-printer) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2502-sort-the-people](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
