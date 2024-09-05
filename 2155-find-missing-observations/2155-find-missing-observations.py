@@ -8,8 +8,4 @@ class Solution:
         base = tot // n
         remainder = tot % n
 
-        out = [base] * n
-        for i in range(remainder):
-            out[i] += 1
-
-        return out
+        return [base + (1 if i < remainder else 0) for i in range(n)]
