@@ -1,36 +1,37 @@
 class Solution:
     def splitListToParts(self, head, k):
+        # Step 1: Calculate the length of the linked list
         length = 0
-
         temp = head
         while temp:
             length += 1
             temp = temp.next
 
-        out = []
+        # Step 2: Determine the base size and remainder
         base = length // k
         rem = length % k
+        
+        # Step 3: Initialize output list and current pointer
+        result = []
         cur_head = head
 
         for i in range(k):
+            # Calculate the size of the current part
+            cur_size = base + (1 if i < rem else 0)
+            part_head = cur_head
 
-            cur_length = base + (1 if i < rem else 0)
-
-            if cur_head:
-                out.append(cur_head)
-                cur_length -= 1
-            else:
-                out.append(None)
-                continue
-
-            for _ in range(cur_length):
+            # Traverse cur_size elements
+            for j in range(cur_size - 1):
                 if cur_head:
                     cur_head = cur_head.next
-                    cur_length += 1
 
+            # Break the link after cur_size elements
             if cur_head:
-                prev = cur_head
-                cur_head = cur_head.next
-                prev.next = None
+                next_part = cur_head.next
+                cur_head.next = None
+                cur_head = next_part
 
-        return out
+            # Append the current part head to result
+            result.append(part_head)
+
+        return result
