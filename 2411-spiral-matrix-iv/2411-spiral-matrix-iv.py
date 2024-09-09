@@ -12,7 +12,6 @@ class Solution:
         r, c = 0, 0
 
         while head:
-            print(head.val, d[i], r, c)
             out[r][c] = head.val
             r, c = r + d[i][0], c + d[i][1]
             if r < 0 or r >= m or c < 0 or c >= n or out[r][c] != -1:
