@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0058-length-of-last-word) |
+| [0241-different-ways-to-add-parentheses](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0564-find-the-closest-palindrome) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0539-minimum-time-difference) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1013-fibonacci-number) |
 ## Linked List
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0005-longest-palindromic-substring) |
+| [0241-different-ways-to-add-parentheses](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0664-strange-printer) |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1013-fibonacci-number) |
 ## String Matching
 |  |
