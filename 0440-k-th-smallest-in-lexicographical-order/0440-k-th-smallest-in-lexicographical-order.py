@@ -1,28 +1,26 @@
 class Solution:
     def findKthNumber(self, n: int, k: int) -> int:
-        def count_steps(curr, n):
-            steps = 0
-            first, last = curr, curr + 1
-            while first <= n:
-                steps += min(last, n + 1) - first
-                first *= 10
-                last *= 10
-            return steps
+        cur = 1
+        k -= 1
 
-        # Initialize the current prefix with 1
-        curr = 1
-        k -= 1  # We decrement k because we start with 1 already counted
-
-        # Traverse the lexicographical tree
         while k > 0:
-            steps = count_steps(curr, n)
+            steps = self.count(n, cur, cur + 1)
+
             if steps <= k:
-                # If there are fewer steps than k, move to the next prefix
-                curr += 1
+                cur += 1
                 k -= steps
             else:
-                # Move down one level in the tree
-                curr *= 10
+                cur *= 10
                 k -= 1
 
-        return curr
+        return cur
+
+    def count(self, n, p1, p2):
+        steps = 0
+
+        while p1 <= n:
+            steps += min(n + 1, p2) - p1
+            p1 *= 10
+            p2 *= 10
+
+        return steps
