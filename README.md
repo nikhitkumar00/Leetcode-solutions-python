@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2755-extra-characters-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Counting
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0917-boats-to-save-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Math
 |  |
 | ------- |
