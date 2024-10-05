@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0349-intersection-of-two-arrays) |
 | [0432-all-oone-data-structure](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0917-boats-to-save-people](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0917-boats-to-save-people) |
