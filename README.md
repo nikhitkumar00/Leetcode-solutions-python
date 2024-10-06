@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1803-average-waiting-time) |
+| [1923-sentence-similarity-iii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1923-sentence-similarity-iii) |
 | [1970-sorting-the-sentence](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1970-sorting-the-sentence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1923-sentence-similarity-iii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2634-minimum-common-value) |
 ## Binary Search
