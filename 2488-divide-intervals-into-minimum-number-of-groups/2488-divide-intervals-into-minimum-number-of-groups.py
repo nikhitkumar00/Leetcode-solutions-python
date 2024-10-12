@@ -1,14 +1,11 @@
 class Solution:
     def minGroups(self, intervals: List[List[int]]) -> int:
-        start, end = sorted([i[0] for i in intervals]), sorted([i[1] for i in intervals])
+        heap = []
+        intervals = sorted(intervals, key=lambda x: x[0])
 
-        i, j, out = 0, 0, 0
-        while i < len(intervals):
-            if start[i] <= end[j]:
-                i += 1
-            else:
-                j += 1
+        for start, end in intervals:
+            if heap and heap[0] < start:
+                heapq.heappop(heap)
+            heapq.heappush(heap, end)
 
-            out = max(out, i - j)
-
-        return out
+        return len(heap)
