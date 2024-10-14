@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0999-regions-cut-by-slashes) |
 | [1256-rank-transform-of-an-array](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1256-rank-transform-of-an-array) |
+| [1297-maximum-number-of-balloons](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1297-maximum-number-of-balloons) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1297-maximum-number-of-balloons](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1297-maximum-number-of-balloons) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1923-sentence-similarity-iii) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1297-maximum-number-of-balloons](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1297-maximum-number-of-balloons) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2163-kth-distinct-string-in-an-array) |
