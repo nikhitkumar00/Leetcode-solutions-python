@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1325-path-with-maximum-probability) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1435-xor-queries-of-a-subarray](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1013-fibonacci-number) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2155-find-missing-observations](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
@@ -486,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1002-maximum-width-ramp) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
