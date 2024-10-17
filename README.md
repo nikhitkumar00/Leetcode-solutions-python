@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2155-find-missing-observations](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Recursion
 |  |
 | ------- |
