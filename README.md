@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Depth-First Search
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0216-combination-sum-iii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -496,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1349-check-if-it-is-a-straight-line) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
