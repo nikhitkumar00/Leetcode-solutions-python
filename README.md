@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1197-parsing-a-boolean-expression) |
 | [1297-maximum-number-of-balloons](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1297-maximum-number-of-balloons) |
 | [1304-longest-happy-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1013-fibonacci-number) |
+| [1197-parsing-a-boolean-expression](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Linked List
 |  |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2800-minimum-string-length-after-removing-substrings) |
