@@ -1,27 +1,20 @@
 class Solution:
     def parseBoolExpr(self, expression: str) -> bool:
-        def parseand(*expr):
-            return all(expr)
+        stack = []
 
-        def parseor(*expr):
-            return any(expr)
-
-        def parsenot(expr):
-            return not expr
-
-        s = []
         for c in expression:
-            if c == "t":
-                s.append("True")
-            elif c == "f":
-                s.append("False")
-            elif c == "&":
-                s.append("parseand")
-            elif c == "|":
-                s.append("parseor")
-            elif c == "!":
-                s.append("parsenot")
-            else:
-                s.append(c)
+            if c == ")":
+                s = set()
+                while stack[-1] != "(":
+                    s.add(stack.pop())
+                stack.pop()
+                op = stack.pop()
 
-        return eval("".join(s))
+                stack.append(
+                    all(s) if op == "&" else any(s) if op == "|" else not s.pop()
+                )
+
+            elif c != ",":
+                stack.append(True if c == "t" else False if c == "f" else c)
+
+        return stack[-1]
