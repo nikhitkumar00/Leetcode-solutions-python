@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2634-minimum-common-value) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2755-extra-characters-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2035-count-sub-islands) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2035-count-sub-islands) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Design
 |  |
 | ------- |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Data Stream
 |  |
 | ------- |
