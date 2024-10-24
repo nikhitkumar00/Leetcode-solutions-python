@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0463-island-perimeter) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0988-flip-equivalent-binary-trees](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0988-flip-equivalent-binary-trees](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0988-flip-equivalent-binary-trees](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2677-cousins-in-binary-tree-ii) |
