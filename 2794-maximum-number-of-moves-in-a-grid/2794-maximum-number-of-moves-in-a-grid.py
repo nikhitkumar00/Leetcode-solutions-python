@@ -6,6 +6,8 @@ class Solution:
         directions = (-1, 0, 1)
 
         def dfs(row, col):
+            if col == COLS - 1:
+                return 0
 
             if dp[row][col] != -1:
                 return dp[row][col]
