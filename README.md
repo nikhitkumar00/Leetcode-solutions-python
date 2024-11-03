@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0664-strange-printer) |
+| [0812-rotate-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1197-parsing-a-boolean-expression) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0812-rotate-string) |
 ## Divide and Conquer
 |  |
 | ------- |
