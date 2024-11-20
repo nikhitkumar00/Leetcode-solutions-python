@@ -8,14 +8,12 @@ class Solution:
         if min(count) < k:
             return -1
 
-        out = inf
-        l = r = 0
+        l = 0
         for r in range(len(s)):
             count[ord(s[r]) - ord("a")] -= 1
 
-            while min(count) < k:
+            if min(count) < k:
                 count[ord(s[l]) - ord("a")] += 1
                 l += 1
 
-            out = min(out, len(s) - (r - l + 1))
-        return out
+        return len(s) - (r - l + 1)
