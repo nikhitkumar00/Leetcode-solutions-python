@@ -12,5 +12,5 @@ class Solution:
                 min_val = min(min_val, abs(val))
 
         if negative_count % 2 == 1:
-            total -= 2 * min_val
+            return total - (2 * min_val)
         return total
