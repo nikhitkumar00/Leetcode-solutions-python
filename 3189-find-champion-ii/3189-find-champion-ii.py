@@ -1,6 +1,5 @@
 class Solution:
     def findChampion(self, n, edges):
-        l = set(i[0] for i in edges)
         r = set(i[1] for i in edges)
 
         out = -1
