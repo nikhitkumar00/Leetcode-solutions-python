@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0463-island-perimeter) |
 | [0539-minimum-time-difference](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0539-minimum-time-difference) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0349-intersection-of-two-arrays) |
 | [0432-all-oone-data-structure](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0567-permutation-in-string) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0179-largest-number) |
+| [0347-top-k-frequent-elements](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0347-top-k-frequent-elements) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1297-maximum-number-of-balloons) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -489,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -564,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0347-top-k-frequent-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -626,4 +632,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
