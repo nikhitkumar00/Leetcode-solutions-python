@@ -3,21 +3,21 @@ class Solution:
         out = []
         stack = []
 
-        def backtrack(open, close):
-            if open == n == close:
+        def backtrack(opened, closeed):
+            if opened == n == closeed:
                 out.append("".join(stack))
                 return
 
-            if open < n:
+            if opened < n:
                 stack.append("(")
-                backtrack(open + 1, close)
+                backtrack(opened + 1, closeed)
                 stack.pop()
 
-            if close < open:
+            if closeed < opened:
                 stack.append(")")
-                backtrack(open, close + 1)
+                backtrack(opened, closeed + 1)
                 stack.pop()
 
-        backtrack(0, 0)  # open count, close count
+        backtrack(0, 0)  # opened count, closeed count
 
         return out
