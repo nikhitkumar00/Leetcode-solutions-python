@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0349-intersection-of-two-arrays) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Doubly-Linked List
@@ -644,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Bucket Sort
 |  |
