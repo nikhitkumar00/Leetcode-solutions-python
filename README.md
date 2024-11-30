@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2035-count-sub-islands) |
+| [2201-valid-arrangement-of-pairs](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1325-path-with-maximum-probability) |
+| [2201-valid-arrangement-of-pairs](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2201-valid-arrangement-of-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3189-find-champion-ii) |
@@ -672,4 +674,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0347-top-k-frequent-elements) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
