@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0347-top-k-frequent-elements) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0179-largest-number) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0347-top-k-frequent-elements) |
