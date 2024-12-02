@@ -5,12 +5,7 @@ class Solution:
         dic = defaultdict(list)
 
         for s in strs:
-            chars = [0] * 26
-
-            for c in s:
-                chars[ord(c) - ord("a")] += 1
-
-            dic[tuple(chars)].append(s)
+            dic["".join(sorted(s))].append(s)
 
         for i in dic:
             out.append(dic[i])
