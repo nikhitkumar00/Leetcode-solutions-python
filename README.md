@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2232-adding-spaces-to-a-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2232-adding-spaces-to-a-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2634-minimum-common-value) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2800-minimum-string-length-after-removing-substrings) |
