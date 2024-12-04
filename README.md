@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1197-parsing-a-boolean-expression) |
+| [1250-longest-common-subsequence](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1304-longest-happy-string) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0664-strange-printer) |
 | [1013-fibonacci-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2067-maximum-number-of-points-with-cost) |
