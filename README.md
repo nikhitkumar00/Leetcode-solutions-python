@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0273-integer-to-english-words) |
+| [0392-is-subsequence](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0567-permutation-in-string) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0664-strange-printer) |
 | [1013-fibonacci-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1013-fibonacci-number) |
