@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3427-special-array-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3427-special-array-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3427-special-array-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/3427-special-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
