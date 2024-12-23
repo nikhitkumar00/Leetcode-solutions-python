@@ -25,9 +25,7 @@ class Solution:
                 if level_values[i] != target[i]:
                     swaps += 1
 
-                    cur = pos[target[i]]
-                    pos[level_values[i]] = cur
-                    level_values[cur] = level_values[i]
+                    pos[level_values[i]], level_values[pos[target[i]]] = pos[target[i]], level_values[i]
 
             total_swaps += swaps
         return total_swaps
