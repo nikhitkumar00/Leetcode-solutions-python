@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0539-minimum-time-difference) |
 | [0566-reshape-the-matrix](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0566-reshape-the-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0624-maximum-distance-in-arrays) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0664-strange-printer) |
 | [1013-fibonacci-number](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1013-fibonacci-number) |
