@@ -1,12 +1,11 @@
 class Solution:
-    def maxScoreSightseeingPair(self, values):
-        max_left = values[0]
+    def maxScoreSightseeingPair(self, values: List[int]) -> int:
         cur_max = 0
-
-        for i in range(1, len(values)):
-            cur_val = values[i] - i
-
-            cur_max = max(cur_max, max_left + cur_val)
-            max_left = max(max_left, values[i] + i)
-
+        cur = 0
+        for value in values:
+            cur -= 1
+            if cur + value > cur_max:
+                cur_max = cur + value
+            if value > cur:
+                cur = value
         return cur_max
