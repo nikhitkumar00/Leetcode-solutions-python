@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0241-different-ways-to-add-parentheses](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/0264-ugly-number-ii) |
