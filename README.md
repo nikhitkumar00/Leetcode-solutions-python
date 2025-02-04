@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1923-sentence-similarity-iii) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/nikhitkumar00/Leetcode-solutions-python/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
